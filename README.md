@@ -1,7 +1,7 @@
 # github-explorer
 
 <h2 align="center">
-  A better view of my repositories list. Built from scratch with ReactJS, 
+  A different view of my repositories list. Built from scratch with ReactJS,
   Webpack, Babel, SASS and Typescript.
 </h2>
 
@@ -37,6 +37,8 @@ Some key features are:
 - Create Webpack and Babel setup.
 - Setup for CSS and SASS.
 - Written using Typescript.
+
+Project developed in Chapter I of Rocketseat's Ignite bootcamp.
 
 <br/>
 
